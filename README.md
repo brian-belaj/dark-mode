@@ -1,4 +1,4 @@
-# dark-mode
+# Dark mode webpage
 a dark mode theme selection made with react
 By clicking the button you can change the theme of the webpage from dark to light
 
